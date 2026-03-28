@@ -1,0 +1,48 @@
+Stay Safe Online: A Cyber Hygiene Checklist for College Students
+
+
+Financial & UPI Safety:-
+
+1)Never Enter Your UPI PIN to Receive Money: A prevalent scam involves someone calling to say they accidentally transferred funds to you, or that you have 
+
+won 
+
+a prize. They will then send a "Collect Request" on apps like GPay, PhonePe, or Paytm. Remember: your UPI PIN is only required when sending money, never for 
+
+receiving it.
+
+2)Set Daily Transaction Limits: Open your banking app and set strict daily limits for your UPI and debit card transactions. If your phone is lost or your 
+
+account is compromised, this minimizes the financial damage scammers can inflict before you have time to block the account.
+
+
+Social Media & Communication:-
+
+3)Verify Urgent "Help" Messages: If a friend reaches out via WhatsApp or Instagram urgently asking for a quick loan due to a sudden "emergency," call their 
+
+phone number directly to verify. Account takeovers are common, and scammers frequently use hacked accounts to exploit a victim's contacts.
+
+4)Lock Down Your Digital Footprint: Set your social media profiles to private. Scammers often download public photos and personal details to create fake, 
+
+cloned profiles for identity theft or extortion (such as threatening to distribute morphed images).
+
+5)Beware of "Easy Part-Time Job" Traps: Be highly skeptical of unsolicited WhatsApp or Telegram messages offering lucrative part-time work for simple tasks 
+
+like "liking YouTube videos" or leaving reviews. These are almost always advance-fee frauds that eventually demand you "invest" money to unlock your 
+
+supposed earnings.
+
+
+Browsing & Account Security:-
+
+6)Scrutinize "Free Study Material" Links: Phishing attacks are often disguised as free PDFs, exam question banks, or premium software downloads shared in 
+
+large college WhatsApp or Telegram groups. Avoid clicking unverified links, as they can deploy malware or steal your login credentials.
+
+7)Avoid Public Wi-Fi for Sensitive Tasks: Campus cafes and public transit networks often have unsecured Wi-Fi. Never log into your bank, UPI apps, or 
+
+university portals on these networks unless you are using a trusted Virtual Private Network (VPN).
+
+8)Enable Two-Factor Authentication (2FA) Everywhere: Turn on 2FA for your primary email, social media, and student accounts. Even if a scammer manages to 
+
+steal your password, they will not be able to access your account without the secondary code sent to your phone or an authenticator app.
